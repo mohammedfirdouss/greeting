@@ -12,8 +12,3 @@ greeting-app/
 ### How It Works
 Well, the program asks the user to input their name, then it reads the input using the bufio package.
 It removes any newline characters from the input and prints a personalized greeting.
-
-
-### Future Improvements
-- Add error handling for invalid input.
-- Provide more personalized responses based on the user's name.
