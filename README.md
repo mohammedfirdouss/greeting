@@ -2,11 +2,12 @@
 A simple Go program that greets the user by name.
 Say Hello.
 
+````
 greeting-app/
 │
-├── main.go        # The main application file
-└── README.md      # Project documentation
-
+├── main.go        
+└── README.md     
+````
 
 ### How It Works
 Well, the program asks the user to input their name, then it reads the input using the bufio package.
