@@ -1,10 +1,10 @@
-# Greeting-app
+# Greeting
 A simple Go program that greets the user by name.
 
 Say Hello.
 
 ````
-greeting-app/
+greeting/
 ├── main.go        
 └── README.md     
 ````
